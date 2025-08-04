@@ -1,0 +1,35 @@
+Microsoft Windows [Version 10.0.26100.4652]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\gayat>ipconfig
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : lan
+   IPv6 Address. . . . . . . . . . . : 2409:40f4:4028:e569:a85e:6023:b57d:ed95
+   Temporary IPv6 Address. . . . . . : 2409:40f4:4028:e569:14c4:fc5f:185c:32ab
+   Link-local IPv6 Address . . . . . : fe80::d90e:305d:16f4:2318%4
+   IPv4 Address. . . . . . . . . . . : 192.168.31.205
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::feb0:deff:fec2:2ca7%4
+                                       192.168.31.1
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Users\gayat>Make a report
