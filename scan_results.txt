@@ -1,0 +1,23 @@
+# Nmap 7.97 scan initiated Mon Aug  4 19:30:54 2025 as: nmap -sS -oN scan_results.txt 192.168.31.0/24
+Nmap scan report for jiofiber.local.html (192.168.31.1)
+Host is up (0.0031s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+443/tcp  open  https
+7443/tcp open  oracleas-https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+MAC Address: FC:B0:DE:C2:2C:A7 (Cloud Network Technology Singapore PTE.)
+
+Nmap scan report for GAYATHRI.lan (192.168.31.205)
+Host is up (0.00084s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT    STATE SERVICE
+80/tcp  open  http
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+# Nmap done at Mon Aug  4 19:32:17 2025 -- 256 IP addresses (2 hosts up) scanned in 83.61 seconds
