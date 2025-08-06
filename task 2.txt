@@ -1,0 +1,29 @@
+Subject: Please verify your email address.
+
+From: GitHub GitHub@bigdogdomains.co
+
+To: [Recipient]
+
+Almost done, Demo! To complete your GitHub sign up, we just need to verify your email address:
+ethan@hooksecurity.co
+
+[Verify email address] (This would be a blue button in an HTML email.)
+
+Once verified, you can start using all of GitHub’s features to explore, build, and share projects.
+
+Button not working? [Click Here]
+
+Email preferences – Terms – Privacy – Sign into GitHub
+
+If you need this as HTML code for use in an email message, just let me know!
+
+This email is a phishing attempt pretending to be from GitHub. Although it looks official, there are several red flags. The sender's email address, GitHub@bigdogdomains.co, is not an official GitHub domain, which immediately makes it suspicious. It also asks you to verify the email address ethan@hooksecurity.co, which likely does not belong to you, indicating the message may have been mass-sent. The email includes a "Verify email address" button that likely links to a fake or malicious website designed to steal your information. Phishing emails often copy the design and tone of real messages to trick users into clicking. To stay safe, do not click on any links or buttons, report the email as phishing, and delete it. If you accidentally interacted with the message, immediately change your passwords and scan your device for any threats.
+
+*Do NOT click any links or buttons.
+
+*Report it as phishing.
+
+*Delete the email.
+
+*If you clicked it: change your passwords and scan your device.
+
