@@ -1,0 +1,48 @@
+Network Traffic Capture and Analysis Report
+Name: [GAYATHRI V]
+Date: [11/8/25]
+Tool Used: Wireshark (Windows x64 Installer)
+File: task5_capture.pcap
+
+Objective
+The purpose of this task was to capture live network packets and identify basic protocols and traffic types using Wireshark.
+
+Procedure
+Installed Wireshark along with Npcap on the local system.
+
+Opened Wireshark and selected the active Wi-Fi interface.
+
+Began live packet capture.
+
+Generated network traffic by:
+
+Visiting several websites in a browser.
+
+Pinging google.com using Command Prompt.
+
+Stopped the capture after ~1 minute.
+
+Applied protocol filters (dns, tcp, icmp) to analyze traffic.
+
+Saved the capture as task5_capture.pcap.
+
+Protocols Identified
+DNS – Domain Name System queries and responses used to resolve domain names to IP addresses.
+
+TCP – Transmission Control Protocol used for reliable data transfer between systems.
+
+ICMP – Internet Control Message Protocol used for network diagnostics (ping).
+
+HTTPS – Encrypted web traffic for secure communication.
+
+Observations
+DNS packets showed requests to resolve domain names such as google.com and example.com.
+
+TCP sessions established connections to remote web servers.
+
+ICMP packets confirmed connectivity during ping tests.
+
+HTTPS traffic contained encrypted payloads, ensuring privacy.
+
+
+
