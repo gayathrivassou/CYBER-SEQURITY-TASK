@@ -1,0 +1,11 @@
+from zxcvbn import zxcvbn
+
+password = input("Enter a password to test: ")
+result = zxcvbn(password)
+
+print("=" * 40)
+print("Password:", password)
+print("Strength score (0=weak, 4=strong):", result["score"])
+print("Estimated crack time:", result["crack_times_display"]["offline_fast_hashing_1e10_per_second"])
+print("Feedback:", result["feedback"])
+print("=" * 40)
